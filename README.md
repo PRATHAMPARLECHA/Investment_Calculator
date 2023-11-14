@@ -1,8 +1,9 @@
-# React + Vite
-### 'inpm install' 
-To install all the dependencies
+# `Investment Calculator`
 
-### 'npm run dev' 
+### `inpm install` 
+To install all the dependencies required for the project
+
+### `npm run dev` 
 To start the development serve 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
